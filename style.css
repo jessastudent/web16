@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+#princess{
+    width: 250px;
+    height: 250px;
+    border: 5px soild black;
+    font-size: 3em;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    line-height: 250px;
+    transform: translateY(100px);
+    transform: skewX(40deg)
+}
